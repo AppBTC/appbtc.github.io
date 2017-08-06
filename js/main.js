@@ -55,8 +55,9 @@ $(document).ready(function(){
 
 
 	//parallax effect initialization
-	$('.hero').parallax("50%", 0.1);
-
+	if(!(/Android|webOS|Opera Mini/i.test(navigator.userAgent))) {
+		$('.hero').parallax("50%", 0.3);
+	}
 
 
 
