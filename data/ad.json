@@ -1,38 +1,5 @@
 [
     {
-        "countryCode": "RU",
-        "adLogo": "https://i.imgur.com/80oiyqt.png",
-        "adImg": "https://i.imgur.com/O3sOYvC.jpg",
-        "adVideo": "",
-        "adAction": "Open",
-        "adTitle": "Яндекс - главные сервисы  в твоем смартфоне",
-        "adDescription": "Попробуйте виртуальный помощник с искусственным интеллектом. Алиса поможет найти ответы на любые ваши вопросы.",
-        "adRating": 5,
-        "adLink": "https://ad.admitad.com/g/4sg9qh5bptdf1db38a47d607c2bbf7/"
-    },
-    {
-        "countryCode": "KZ",
-        "adLogo": "https://i.imgur.com/80oiyqt.png",
-        "adImg": "https://i.imgur.com/O3sOYvC.jpg",
-        "adVideo": "",
-        "adAction": "Open",
-        "adTitle": "Яндекс - главные сервисы  в твоем смартфоне",
-        "adDescription": "Попробуйте виртуальный помощник с искусственным интеллектом. Алиса поможет найти ответы на любые ваши вопросы.",
-        "adRating": 5,
-        "adLink": "https://ad.admitad.com/g/4sg9qh5bptdf1db38a47d607c2bbf7/"
-    },
-    {
-        "countryCode": "BY",
-        "adLogo": "https://i.imgur.com/80oiyqt.png",
-        "adImg": "https://i.imgur.com/O3sOYvC.jpg",
-        "adVideo": "",
-        "adAction": "Open",
-        "adTitle": "Яндекс - главные сервисы  в твоем смартфоне",
-        "adDescription": "Попробуйте виртуальный помощник с искусственным интеллектом. Алиса поможет найти ответы на любые ваши вопросы.",
-        "adRating": 5,
-        "adLink": "https://ad.admitad.com/g/4sg9qh5bptdf1db38a47d607c2bbf7/"
-    },
-    {
         "countryCode": "UA",
         "adLogo": "https://i.imgur.com/hClDDjm.png",
         "adImg": "https://i.imgur.com/pjL1Pnw.jpg",
@@ -42,5 +9,299 @@
         "adDescription": "Мы не несем траты на содержание отделений. Поэтому мы предлагаем самые выгодные тарифы",
         "adRating": 5,
         "adLink": "https://ad.admitad.com/g/yfp1lg37f6df1db38a4766f30a08a3/"
+    },
+    {
+        "countryCode": "RU",
+        "adLogo": "https://i.imgur.com/1XPFEio.png",
+        "adImg": "https://i.imgur.com/4SRzJRP.png",
+        "adVideo": "",
+        "adAction": "Установить",
+        "adTitle": "UC Browser - Самый быстрый браузер",
+        "adDescription": "Веб-браузер для Android с встроенным адаптивным контентом, функцией быстрой загрузки, экономией трафика.",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/LUOS/sub1/sub2/sub3/sub4/sub5"
+    },{
+        "countryCode": "ID",
+        "adLogo": "https://i.imgur.com/1XPFEio.png",
+        "adImg": "https://i.imgur.com/4SRzJRP.png",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "UC Browser - The fastest browser",
+        "adDescription": "Web browser for Android with built-in adaptive content, fast download function, save traffic.",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/LUOS/sub1/sub2/sub3/sub4/sub5"
+    },
+    {
+        "countryCode": "VN",
+        "adLogo": "https://i.imgur.com/1XPFEio.png",
+        "adImg": "https://i.imgur.com/4SRzJRP.png",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "UC Browser - The fastest browser",
+        "adDescription": "Web browser for Android with built-in adaptive content, fast download function, save traffic.",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/LUOS/sub1/sub2/sub3/sub4/sub5"
+    },{
+        "countryCode": "IN",
+        "adLogo": "https://i.imgur.com/1XPFEio.png",
+        "adImg": "https://i.imgur.com/4SRzJRP.png",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "UC Browser - The fastest browser",
+        "adDescription": "Web browser for Android with built-in adaptive content, fast download function, save traffic.",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/LUOS/sub1/sub2/sub3/sub4/sub5"
+    },
+    {
+        "countryCode": "MY",
+        "adLogo": "https://i.imgur.com/1XPFEio.png",
+        "adImg": "https://i.imgur.com/4SRzJRP.png",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "UC Browser - The fastest browser",
+        "adDescription": "Web browser for Android with built-in adaptive content, fast download function, save traffic.",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/LUOS/sub1/sub2/sub3/sub4/sub5"
+    },
+    {
+        "countryCode": "RU",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress – это торговая площадка в ваших руках",
+        "adDescription": "Миллионы пользователей находят здесь желаемые товары  из Китая по самым выгодным ценам",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },
+    {
+        "countryCode": "UA",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress – это торговая площадка в ваших руках",
+        "adDescription": "Миллионы пользователей находят здесь желаемые товары  из Китая по самым выгодным ценам",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },
+    {
+        "countryCode": "US",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },
+    {
+        "countryCode": "TH",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },
+    {
+        "countryCode": "KW",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },
+    {
+        "countryCode": "QA",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },
+    {
+        "countryCode": "AE",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },
+    {
+        "countryCode": "IQ",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },
+    {
+        "countryCode": "CL",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },
+    {
+        "countryCode": "KR",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },{
+        "countryCode": "AU",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },
+    {
+        "countryCode": "CA",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },{
+        "countryCode": "IL",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },{
+        "countryCode": "MX",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },{
+        "countryCode": "ID",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },{
+        "countryCode": "MY",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },{
+        "countryCode": "BH",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },{
+        "countryCode": "EG",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },{
+        "countryCode": "LB",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },{
+        "countryCode": "OM",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },{
+        "countryCode": "BR",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },{
+        "countryCode": "SA",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
+    },{
+        "countryCode": "PH",
+        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
+        "adImg": "https://i.imgur.com/595EqAj.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "AliExpress is a trading platform in your hands",
+        "adDescription": "Millions of users find here the desired products from China at the best prices",
+        "adRating": 5,
+        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
     }
 ]
