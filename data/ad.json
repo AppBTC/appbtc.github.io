@@ -54,17 +54,6 @@
         "adLink": "http://shakesmobi.com/LUOS/sub1/sub2/sub3/sub4/sub5"
     },
     {
-        "countryCode": "US",
-        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
-        "adImg": "https://i.imgur.com/595EqAj.jpg",
-        "adVideo": "",
-        "adAction": "Install",
-        "adTitle": "AliExpress is a trading platform in your hands",
-        "adDescription": "Millions of users find here the desired products from China at the best prices",
-        "adRating": 5,
-        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
-    },
-    {
         "countryCode": "TH",
         "adLogo": "https://i.imgur.com/hiWd5Nz.png",
         "adImg": "https://i.imgur.com/595EqAj.jpg",
@@ -140,28 +129,8 @@
         "adDescription": "Millions of users find here the desired products from China at the best prices",
         "adRating": 5,
         "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
-    },{
-        "countryCode": "AU",
-        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
-        "adImg": "https://i.imgur.com/595EqAj.jpg",
-        "adVideo": "",
-        "adAction": "Install",
-        "adTitle": "AliExpress is a trading platform in your hands",
-        "adDescription": "Millions of users find here the desired products from China at the best prices",
-        "adRating": 5,
-        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
     },
     {
-        "countryCode": "CA",
-        "adLogo": "https://i.imgur.com/hiWd5Nz.png",
-        "adImg": "https://i.imgur.com/595EqAj.jpg",
-        "adVideo": "",
-        "adAction": "Install",
-        "adTitle": "AliExpress is a trading platform in your hands",
-        "adDescription": "Millions of users find here the desired products from China at the best prices",
-        "adRating": 5,
-        "adLink": "http://shakesmobi.com/QUOS/sub1/sub2/sub3/sub4/sub5"
-    },{
         "countryCode": "IL",
         "adLogo": "https://i.imgur.com/hiWd5Nz.png",
         "adImg": "https://i.imgur.com/595EqAj.jpg",
@@ -370,5 +339,104 @@
         "adDescription": "Невероятные воины ждут, чтобы начать бороться за свою империю! Летящие топоры, рев драконов, и шипение огненных шаров.",
         "adRating": 5,
         "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=698"
+    },
+    {
+        "countryCode": "US",
+        "adLogo": "https://i.imgur.com/tI2IYk1.jpg",
+        "adImg": "https://i.imgur.com/VCEiMH0.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "Vikings: War of Clans",
+        "adDescription": "Welcome to the harsh world of Vikings, where power and freedom, fear and cruelty prevail!",
+        "adRating": 5,
+        "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=488"
+    },
+    {
+        "countryCode": "US",
+        "adLogo": "https://i.imgur.com/tI2IYk1.jpg",
+        "adImg": "https://i.imgur.com/HydmpPG.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "Vikings: War of Clans",
+        "adDescription": "Welcome to the harsh world of Vikings, where power and freedom, fear and cruelty prevail!",
+        "adRating": 5,
+        "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=488"
+    },
+    {
+        "countryCode": "US",
+        "adLogo": "https://i.imgur.com/tI2IYk1.jpg",
+        "adImg": "https://i.imgur.com/Uy1CNE6.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "Vikings: War of Clans",
+        "adDescription": "Welcome to the harsh world of Vikings, where power and freedom, fear and cruelty prevail!",
+        "adRating": 5,
+        "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=488"
+    },
+    {
+        "countryCode": "CA",
+        "adLogo": "https://i.imgur.com/tI2IYk1.jpg",
+        "adImg": "https://i.imgur.com/VCEiMH0.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "Vikings: War of Clans",
+        "adDescription": "Welcome to the harsh world of Vikings, where power and freedom, fear and cruelty prevail!",
+        "adRating": 5,
+        "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=488"
+    },
+    {
+        "countryCode": "CA",
+        "adLogo": "https://i.imgur.com/tI2IYk1.jpg",
+        "adImg": "https://i.imgur.com/HydmpPG.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "Vikings: War of Clans",
+        "adDescription": "Welcome to the harsh world of Vikings, where power and freedom, fear and cruelty prevail!",
+        "adRating": 5,
+        "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=488"
+    },
+    {
+        "countryCode": "CA",
+        "adLogo": "https://i.imgur.com/tI2IYk1.jpg",
+        "adImg": "https://i.imgur.com/Uy1CNE6.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "Vikings: War of Clans",
+        "adDescription": "Welcome to the harsh world of Vikings, where power and freedom, fear and cruelty prevail!",
+        "adRating": 5,
+        "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=488"
+    },
+    {
+        "countryCode": "AU",
+        "adLogo": "https://i.imgur.com/tI2IYk1.jpg",
+        "adImg": "https://i.imgur.com/VCEiMH0.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "Vikings: War of Clans",
+        "adDescription": "Welcome to the harsh world of Vikings, where power and freedom, fear and cruelty prevail!",
+        "adRating": 5,
+        "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=488"
+    },
+    {
+        "countryCode": "AU",
+        "adLogo": "https://i.imgur.com/tI2IYk1.jpg",
+        "adImg": "https://i.imgur.com/HydmpPG.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "Vikings: War of Clans",
+        "adDescription": "Welcome to the harsh world of Vikings, where power and freedom, fear and cruelty prevail!",
+        "adRating": 5,
+        "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=488"
+    },
+    {
+        "countryCode": "AU",
+        "adLogo": "https://i.imgur.com/tI2IYk1.jpg",
+        "adImg": "https://i.imgur.com/Uy1CNE6.jpg",
+        "adVideo": "",
+        "adAction": "Install",
+        "adTitle": "Vikings: War of Clans",
+        "adDescription": "Welcome to the harsh world of Vikings, where power and freedom, fear and cruelty prevail!",
+        "adRating": 5,
+        "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=488"
     }
 ]
