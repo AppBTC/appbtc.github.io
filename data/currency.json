@@ -3,101 +3,121 @@
     {
       "code": "USD",
       "nameRu": "Доллар США",
+      "symbol": "$",
       "name": "United States Dollar"
     },
     {
       "code": "AUD",
       "nameRu": "Австралийский доллар",
+      "symbol": "$",
       "name": "Australia Dollar"
     },
     {
       "code": "BRL",
       "nameRu": "Бразильский реал",
+      "symbol": "R$",
       "name": "Brazil Real"
     },
     {
       "code": "CAD",
       "nameRu": "Канадский доллар",
+      "symbol": "C$",
       "name": "Canada Dollar"
     },
     {
       "code": "CHF",
       "nameRu": "Швейцарский франк",
+      "symbol": "Fr",
       "name": "Switzerland Franc"
     },
     {
       "code": "CLP",
       "nameRu": "Чилийский песо",
+      "symbol": "$",
       "name": "Chile Peso"
     },
     {
       "code": "CNY",
       "nameRu": "Китайский юань",
+      "symbol": "¥",
       "name": "China Yuan Renminbi"
     },
     {
       "code": "DKK",
       "nameRu": "Датская крона",
+      "symbol": "kr",
       "name": "Denmark Krone"
     },
     {
       "code": "EUR",
       "nameRu": "ЕВРО",
+      "symbol": "€",
       "name": "Euro Member Countries"
     },
     {
       "code": "GBP",
       "nameRu": "Фунт стерлингов",
+      "symbol": "₤",
       "name": "United Kingdom Pound"
     },
     {
       "code": "HKD",
       "nameRu": "Гонконгский доллар",
+      "symbol": "$",
       "name": "Hong Kong Dollar"
     },
     {
       "code": "INR",
       "nameRu": "Индийская рупия",
+      "symbol": "₹",
       "name": "India Rupee"
     },
     {
       "code": "ISK",
       "nameRu": "Исландская крона",
+      "symbol": "kr",
       "name": "Iceland Krona"
     },
     {
       "code": "JPY",
       "nameRu": "Иена",
+      "symbol": "¥",
       "name": "Japan Yen"
     },
     {
       "code": "KRW",
       "nameRu": "Южнокорейский вон",
+      "symbol": "₩",
       "name": "Korea (South) Won"
     },
     {
       "code": "NZD",
       "nameRu": "Новозеландский доллар",
+      "symbol": "$",
       "name": "New Zealand Dollar"
     },
     {
       "code": "PLN",
       "nameRu": "Злотый",
+      "symbol": "zł",
       "name": "Poland Zloty"
     },
     {
       "code": "RUB",
       "nameRu": "Российский рубль",
+      "symbol": "₽",
       "name": "Russia Ruble"
     },
     {
       "code": "SEK",
       "nameRu": "Шведская крона",
+      "symbol": "kr",
       "name": "Sweden Krona"
     },
     {
       "code": "SGD",
       "nameRu": "Сингапурский доллар",
+      "symbol": "S$",
       "name": "Singapore Dollar"
     },
     {
@@ -108,11 +128,13 @@
     {
       "code": "TWD",
       "nameRu": "Тайваньский доллар",
+      "symbol": "NT$",
       "name": "Taiwan New Dollar"
     },
     {
       "code": "UAH",
       "nameRu": "Украинская гривна",
+      "symbol": "₴",
       "name": "Ukraine Hryvnia"
     }
   ],
