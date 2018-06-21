@@ -372,5 +372,49 @@
         "adDescription": "Welcome to the harsh world of Vikings, where power and freedom, fear and cruelty prevail!",
         "adRating": 5,
         "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=488"
+    },
+    {
+        "countryCode": "RU",
+        "adLogo": "https://i.imgur.com/b7Mj0WH.png",
+        "adImg": "https://i.imgur.com/Yhf9YpW.png",
+        "adVideo": "",
+        "adAction": "Установить",
+        "adTitle": "inDriver - Экономьте на городских поездках",
+        "adDescription": "Используйте альтернативный заказ такси в городах России и Казахстана.",
+        "adRating": 5,
+        "adLink": "https://ad.admitad.com/g/wrp9p1sclxdf1db38a47fe59f55210/"
+    },
+    {
+        "countryCode": "UA",
+        "adLogo": "https://i.imgur.com/CONKT3C.png",
+        "adImg": "https://i.imgur.com/baUFnzj.png",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "Альфа-Банк (Украина) - универсальный коммерческий банк",
+        "adDescription": "Согласно рейтингу Национального Банка Украины, Банк входит в группу крупнейших банков страны по размеру активов",
+        "adRating": 5,
+        "adLink": "https://ad.admitad.com/g/5351d3d56edf1db38a47e6dcee139a/"
+    },
+    {
+        "countryCode": "UA",
+        "adLogo": "https://i.imgur.com/xK1bR7V.png",
+        "adImg": "https://i.imgur.com/Hq1vfEq.png",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "ШвидкоГроші – лидер рынка моментального кредитования",
+        "adDescription": "Компания  предоставляет моментальные кредиты наличными до 3000 грн. без залога, справок и поручителей.",
+        "adRating": 5,
+        "adLink": "https://ad.admitad.com/g/wplg83nwqddf1db38a47ce8fd7bb71/"
+    },
+    {
+        "countryCode": "RU",
+        "adLogo": "https://i.imgur.com/Mbo2Pdp.png",
+        "adImg": "https://i.imgur.com/5euQDq4.jpg",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": " MoneyMan - Деньги на карту через 15 минут",
+        "adDescription": "Деньги в долг до 70 000 рублей, на срок до 126 дней, с проведением всей сделки удаленно через интернет",
+        "adRating": 5,
+        "adLink": "https://ad.admitad.com/g/1a4e628034df1db38a47cb39f7ffa1/"
     }
 ]
