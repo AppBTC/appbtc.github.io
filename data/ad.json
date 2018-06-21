@@ -412,9 +412,53 @@
         "adImg": "https://i.imgur.com/5euQDq4.jpg",
         "adVideo": "",
         "adAction": "Открыть",
-        "adTitle": " MoneyMan - Деньги на карту через 15 минут",
+        "adTitle": "MoneyMan - Деньги на карту через 15 минут",
         "adDescription": "Деньги в долг до 70 000 рублей, на срок до 126 дней, с проведением всей сделки удаленно через интернет",
         "adRating": 5,
         "adLink": "https://ad.admitad.com/g/1a4e628034df1db38a47cb39f7ffa1/"
+    },
+    {
+        "countryCode": "RU",
+        "adLogo": "https://i.imgur.com/x4FOD2j.png",
+        "adImg": "https://i.imgur.com/2NQEAM4.jpg",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "Vikings: War of Clans",
+        "adDescription": "Добро пожаловать в суровый мир викингов, где господствуют сила и свобода, страх и жестокость!",
+        "adRating": 5,
+        "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=1021"
+    },
+    {
+        "countryCode": "RU",
+        "adLogo": "https://i.imgur.com/x4FOD2j.png",
+        "adImg": "https://i.imgur.com/dE4cOLT.jpg",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "Vikings: War of Clans",
+        "adDescription": "Возводите величественные здания, тренируйте доблестных воинов и пополняйте казну.",
+        "adRating": 5,
+        "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=1021"
+    },
+    {
+        "countryCode": "RU",
+        "adLogo": "https://i.imgur.com/x4FOD2j.png",
+        "adImg": "https://i.imgur.com/zpV3lfp.jpg",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "Vikings: War of Clans",
+        "adDescription": "Попробуйте себя в роли отважного и мудрого Ярла, которого уважают и боятся!",
+        "adRating": 5,
+        "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=1021"
+    },
+    {
+        "countryCode": "RU",
+        "adLogo": "https://i.imgur.com/x4FOD2j.png",
+        "adImg": "https://i.imgur.com/didI0hM.jpg",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "Vikings: War of Clans",
+        "adDescription": "Добро пожаловать в суровый мир викингов, где господствуют сила и свобода, страх и жестокость!",
+        "adRating": 5,
+        "adLink": "https://track.zorkanetwork.com/click?pid=6666&offer_id=1021"
     }
 ]
