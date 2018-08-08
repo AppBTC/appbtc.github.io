@@ -152,5 +152,60 @@
         "adDescription": "Веб-браузер для Android с встроенным адаптивным контентом",
         "adRating": 5,
         "adLink": "https://ad.admitad.com/g/uostm7jvuwdf1db38a476c16e54582/"
+    },
+    {
+        "countryCode": "UA",
+        "adLogo": "https://i.imgur.com/SApgNkt.png",
+        "adImg": "https://i.imgur.com/rFo3MDt.png",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "Bitcoin CNews - криптовалюты, цены, новости",
+        "adDescription": "Курсы, новости криптовалют и blockchain технологий, мониторинг Bitcoin кошельков",
+        "adRating": 5,
+        "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
+    },
+    {
+        "countryCode": "RU",
+        "adLogo": "https://i.imgur.com/SApgNkt.png",
+        "adImg": "https://i.imgur.com/rFo3MDt.png",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "Bitcoin CNews - криптовалюты, цены, новости",
+        "adDescription": "Курсы, новости криптовалют и blockchain технологий, мониторинг Bitcoin кошельков",
+        "adRating": 5,
+        "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
+    },
+    {
+        "countryCode": "BY",
+        "adLogo": "https://i.imgur.com/SApgNkt.png",
+        "adImg": "https://i.imgur.com/rFo3MDt.png",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "Bitcoin CNews - криптовалюты, цены, новости",
+        "adDescription": "Курсы, новости криптовалют и blockchain технологий, мониторинг Bitcoin кошельков",
+        "adRating": 5,
+        "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
+    },
+    {
+        "countryCode": "IN",
+        "adLogo": "https://i.imgur.com/SApgNkt.png",
+        "adImg": "https://i.imgur.com/HJqOZ90.png",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "Bitcoin CNews - Cryptocurrency, prices, news",
+        "adDescription": "Rate, news of the Crypto-currency and blockchain technologies, monitoring of Bitcoin wallets",
+        "adRating": 5,
+        "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
+    },
+    {
+        "countryCode": "KZ",
+        "adLogo": "https://i.imgur.com/SApgNkt.png",
+        "adImg": "https://i.imgur.com/rFo3MDt.png",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "Bitcoin CNews - криптовалюты, цены, новости",
+        "adDescription": "Курсы, новости криптовалют и blockchain технологий, мониторинг Bitcoin кошельков",
+        "adRating": 5,
+        "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
     }
 ]
