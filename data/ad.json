@@ -162,7 +162,7 @@
         "adTitle": "Bitcoin CNews - криптовалюты, цены, новости",
         "adDescription": "Курсы, новости криптовалют и blockchain технологий, мониторинг Bitcoin кошельков",
         "adRating": 5,
-        "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
+        "adLink": "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
     },
     {
         "countryCode": "RU",
@@ -173,7 +173,7 @@
         "adTitle": "Bitcoin CNews - криптовалюты, цены, новости",
         "adDescription": "Курсы, новости криптовалют и blockchain технологий, мониторинг Bitcoin кошельков",
         "adRating": 5,
-        "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
+        "adLink": "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
     },
     {
         "countryCode": "BY",
@@ -184,7 +184,7 @@
         "adTitle": "Bitcoin CNews - криптовалюты, цены, новости",
         "adDescription": "Курсы, новости криптовалют и blockchain технологий, мониторинг Bitcoin кошельков",
         "adRating": 5,
-        "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
+        "adLink": "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
     },
     {
         "countryCode": "IN",
@@ -195,7 +195,7 @@
         "adTitle": "Bitcoin CNews - Cryptocurrency, prices, news",
         "adDescription": "Rate, news of the Crypto-currency and blockchain technologies, monitoring of Bitcoin wallets",
         "adRating": 5,
-        "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
+        "adLink": "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
     },
     {
         "countryCode": "KZ",
@@ -206,6 +206,6 @@
         "adTitle": "Bitcoin CNews - криптовалюты, цены, новости",
         "adDescription": "Курсы, новости криптовалют и blockchain технологий, мониторинг Bitcoin кошельков",
         "adRating": 5,
-        "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
+        "adLink": "https://play.google.com/store/apps/details?id=com.bitcoin.crane.news&referrer=utm_source%3Dnativebc"
     }
 ]
