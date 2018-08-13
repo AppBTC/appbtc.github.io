@@ -7,7 +7,7 @@
   "emulator" : true,
   "intervalNotif" : 3600000,
   "max" : 110,
-  "maxDay" : 87,
+  "maxDay" : 74,
   "min" : 50,
   "minOut" : 400000,
   "rate" : 0.31,
