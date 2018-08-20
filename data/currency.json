@@ -259,6 +259,12 @@
       "name": "Qtum",
       "img": "https://i.imgur.com/9GOReU5.png?1",
       "site": "https://qtum.org"
+    },
+    {
+      "code": "XLM",
+      "name": "Stellar",
+      "img": "https://i.imgur.com/xGS49sS.png",
+      "site": "https://www.stellar.org"
     }
   ]
 }
