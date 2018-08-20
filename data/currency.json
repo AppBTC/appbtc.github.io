@@ -277,6 +277,12 @@
       "name": "Hshare",
       "img": "https://i.imgur.com/5f7p01t.png",
       "site": "https://h.cash"
+    },
+    {
+      "code": "OMG",
+      "name": "OmiseGo",
+      "img": "https://i.imgur.com/sOAGYKR.png",
+      "site": "https://omisego.network"
     }
   ]
 }
