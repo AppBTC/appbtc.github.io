@@ -283,6 +283,12 @@
       "name": "OmiseGo",
       "img": "https://i.imgur.com/sOAGYKR.png",
       "site": "https://omisego.network"
+    },
+    {
+      "code": "BTG",
+      "name": "Bitcoin Gold",
+      "img": "https://i.imgur.com/M6H7Nus.png",
+      "site": "https://bitcoingold.org/"
     }
   ]
 }
