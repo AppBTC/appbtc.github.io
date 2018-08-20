@@ -271,6 +271,12 @@
       "name": "CoinEx token",
       "img": "https://i.imgur.com/hXTpEpG.png",
       "site": "https://www.coinex.com"
+    },
+    {
+      "code": "HSR",
+      "name": "Hshare",
+      "img": "https://i.imgur.com/5f7p01t.png",
+      "site": "https://h.cash"
     }
   ]
 }
