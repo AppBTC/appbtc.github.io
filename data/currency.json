@@ -265,6 +265,12 @@
       "name": "Stellar",
       "img": "https://i.imgur.com/xGS49sS.png",
       "site": "https://www.stellar.org"
+    },
+    {
+      "code": "CET",
+      "name": "CoinEx token",
+      "img": "https://i.imgur.com/hXTpEpG.png",
+      "site": "https://www.coinex.com"
     }
   ]
 }
