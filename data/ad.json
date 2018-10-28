@@ -53,5 +53,60 @@
         "adDescription": "Курсы, новости криптовалют и blockchain технологий, мониторинг Bitcoin кошельков",
         "adRating": 5,
         "adLink": "https://ad.apps.fm/gShVvYocUz7NoG5xvRArxdJhY-EER6L1GkCY-5PCEhANUOLpDibndj9uZcNRfj7sHHsVU3JbM71n_ONiBDBDLw"
+    },
+    {
+        "countryCode": "UA",
+        "adLogo": "https://i.imgur.com/m7LK45N.png",
+        "adImg": "https://i.imgur.com/gofoM57.png",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "CutTrack - Обрезка песен",
+        "adDescription": "Это самое простое и удобное приложение для обрезки рингтонов",
+        "adRating": 5,
+        "adLink": "https://play.google.com/store/apps/details?id=com.audioeditor.cuttrack&referrer=utm_source%3adbc"
+    },
+    {
+        "countryCode": "RU",
+        "adLogo": "https://i.imgur.com/m7LK45N.png",
+        "adImg": "https://i.imgur.com/gofoM57.png",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "CutTrack - Обрезка песен",
+        "adDescription": "Это самое простое и удобное приложение для обрезки рингтонов",
+        "adRating": 5,
+        "adLink": "https://play.google.com/store/apps/details?id=com.audioeditor.cuttrack&referrer=utm_source%3adbc"
+    },
+    {
+        "countryCode": "BY",
+        "adLogo": "https://i.imgur.com/m7LK45N.png",
+        "adImg": "https://i.imgur.com/gofoM57.png",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "CutTrack - Обрезка песен",
+        "adDescription": "Это самое простое и удобное приложение для обрезки рингтонов",
+        "adRating": 5,
+        "adLink": "https://play.google.com/store/apps/details?id=com.audioeditor.cuttrack&referrer=utm_source%3adbc"
+    },
+    {
+        "countryCode": "IN",
+        "adLogo": "https://i.imgur.com/m7LK45N.png",
+        "adImg": "https://i.imgur.com/gofoM57.png",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "CutTrack – Make a ringtone easily",
+        "adDescription": "This is the most simple and convenient application for pruning ringtones",
+        "adRating": 5,
+        "adLink": "https://play.google.com/store/apps/details?id=com.audioeditor.cuttrack&referrer=utm_source%3adbc"
+    },
+    {
+        "countryCode": "KZ",
+        "adLogo": "https://i.imgur.com/m7LK45N.png",
+        "adImg": "https://i.imgur.com/gofoM57.png",
+        "adVideo": "",
+        "adAction": "Открыть",
+        "adTitle": "CutTrack - Обрезка песен",
+        "adDescription": "Это самое простое и удобное приложение для обрезки рингтонов",
+        "adRating": 5,
+        "adLink": "https://play.google.com/store/apps/details?id=com.audioeditor.cuttrack&referrer=utm_source%3adbc"
     }
 ]
