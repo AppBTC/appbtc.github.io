@@ -11,6 +11,7 @@
   "maxDay" : 58,
   "min" : 50,
   "minOut" : 400000,
+  "que" : false,
   "rate" : 0.62,
   "referralBonus" : 2600,
   "rooted" : true,
