@@ -454,6 +454,26 @@ a.app_link{
 	-webkit-transition: all .2s linear;
 }
 
+.about .features_list ul li.briefcase_icon{
+	background: url('../img/briefcase.png') no-repeat;
+	background-position: 0 15px;
+}
+
+.about .features_list ul li.bardollar_icon{
+	background: url('../img/bar_dollar.png') no-repeat;
+	background-position: 0 15px;
+}
+
+.about .features_list ul li.feminine_icon{
+	background: url('../img/feminine.png') no-repeat;
+	background-position: 0 15px;
+}
+
+.about .features_list ul li.calculator_icon{
+	background: url('../img/calculator.png') no-repeat;
+	background-position: 0 15px;
+}
+
 .about .features_list ul li.camera_icon{	
 	background: url('../img/icon1.png') no-repeat;
 	background-position: 0 15px; 
@@ -656,10 +676,17 @@ a.app_link{
 }
 
 .sub_box .cta_text{
+ 	color: #fff;
+ 	font-family: "open_regular", Helvetica, Arial, sans-serif;
+ 	font-size: 20px;
+ 	margin-bottom: 50px;
+}
+
+p.cta_text2 {
 	color: #fff;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
-	font-size: 20px;
-	margin-bottom: 50px;
+	font-size: 24px;
+	margin-bottom: 150px;
 }
 
 .sub_box #mc-email{
