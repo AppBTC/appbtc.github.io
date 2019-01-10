@@ -498,10 +498,10 @@ a.app_link{
 	width: 100%;
 	padding: 100px 0 20px 0;
 	background-color: #41c17d;
-	background-image: -moz-linear-gradient(bottom, #000000 0%, #1A1A1A 0.27%, #1A1A1A 99.46%, #1A1A1A 100%);
-	background-image: -o-linear-gradient(bottom, #000000 0%, #1A1A1A 0.27%, #1A1A1A 99.46%, #1A1A1A 100%);
-	background-image: -webkit-linear-gradient(bottom, #000000 0%, #1A1A1A 0.27%, #1A1A1A 99.46%, #1A1A1A 100%);
-	background-image: linear-gradient(bottom, #000000 0%, #1A1A1A 0.27%, #1A1A1A 99.46%, #1A1A1A 100%);
+	background-image: -moz-linear-gradient(bottom, #5c8240 0%, #40751a 0.27%, #86af68 99.46%, #6ea04a 100%);
+	background-image: -o-linear-gradient(bottom, #5c8240 0%, #40751a 0.27%, #86af68 99.46%, #6ea04a 100%);
+	background-image: -webkit-linear-gradient(bottom, #5c8240 0%, #40751a 0.27%, #86af68 99.46%, #6ea04a 100%);
+	background-image: linear-gradient(bottom, #5c8240 0%, #40751a 0.27%, #86af68 99.46%, #6ea04a 100%);
 }
 
 .app_features h1{
