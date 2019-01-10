@@ -801,6 +801,14 @@ footer .copyright{
 	letter-spacing: .5px;
 }
 
+p.copyright2{
+	margin-top: 30px;
+	color: #BBBBBB;
+	font-family: "open_regular", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	letter-spacing: .5px;
+}
+
 footer .copyright a{
 	color: #565555;
 }
